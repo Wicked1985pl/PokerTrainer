@@ -1,0 +1,16 @@
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\MyPokerApp.exe
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\MyPokerApp.deps.json
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\MyPokerApp.runtimeconfig.json
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\MyPokerApp.runtimeconfig.dev.json
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\MyPokerApp.dll
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\ref\MyPokerApp.dll
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\bin\Debug\net5.0\MyPokerApp.pdb
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.dll
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\ref\MyPokerApp.dll
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.pdb
+C:\Users\Oskar\source\repos\MyPokerApp\MyPokerApp\obj\Debug\net5.0\MyPokerApp.genruntimeconfig.cache
